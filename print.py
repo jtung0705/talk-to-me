@@ -5,7 +5,7 @@ from time import sleep
 def print_lyrics():
     lines = [
         ("\nWish you'd just talk to me", 0.05),
-        ("talk to me :3", 0.06),
+        ("talk to me :3", 0.05),
         ("talk to~~~\n", 0.06),        
     ]
     delays = [0.6, 00.3, 0.0]
@@ -36,4 +36,4 @@ print_lyrics()
 # *%*+#@@@#=====+##+======*%@@@%+=+##====*%@%+
 
 # I GOT LAZY AT THIS PART OF THE VIDEO, SORRY!
-# Procrastinating on KP WebDev too... Sorry Boss!
+# Procrastinating on KP WebDev too... Sorry BOSS!
